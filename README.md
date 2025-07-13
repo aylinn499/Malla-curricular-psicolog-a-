@@ -3,7 +3,6 @@
 > Universidad: Universidad de los lagos]  
 > Estudiante: Aylin Irribarra  
 > Año de ingreso: 2025
-> Formato editable con checkboxes para marcar asignaturas completadas ✅
 
 ---
 
@@ -93,8 +92,3 @@
 **Décimo semestre**
 - [ ] Examen de título 
 - [ ] Práctica Profesional II
-
----
-
-### 📝 Notas:
-- Marca con una `x` las asignaturas que ya completaste → `[x]`
